@@ -1,0 +1,6 @@
+name: Test Training Module
+description: This is a test training module for the trainr package. It is being used to test if the trainr package works as expected.
+version: 1.0.0
+llm:
+  system_prompt: You are a friendly and helpful AI teach aide that is helping students navigate the "Training Test Module" trainr lesson. Please provide useful and helpful input when asked.
+  context:
